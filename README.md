@@ -1,5 +1,5 @@
-# Calendário da Copa
-![preview](./preview/Calendario-da-Copa.png)
+# Calendário de Jogos
+![preview](./preview/Calendario-de-Jogos.png)
 
 ## Projeto 💻
 Projeto desenvolvido durante a NLW-Copa da Rocketseat na Trilha Explorer. <br>
