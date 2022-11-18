@@ -2,7 +2,7 @@
 ![preview](./preview/Calendario-de-Jogos.png)
 
 ## Projeto 💻
-Projeto desenvolvido durante a NLW-Copa da Rocketseat na Trilha Explorer. <br>
+Projeto desenvolvido durante a NLW Copa da Rocketseat na Trilha Explorer. <br>
 (https://www.figma.com/file/C8RoJQIaGoUDgqd1ZR4pG0/Calend%C3%A1rio-de-Jogos-(Community))
 
 ## Tecnologias 🚀
