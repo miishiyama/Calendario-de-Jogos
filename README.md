@@ -1,5 +1,16 @@
 # Calendário de Jogos
-![preview](./preview/Calendario-de-Jogos.png)
+
+<p align="center">
+  Preview:
+    &nbsp;&nbsp;&nbsp;
+  <a href="./preview/Calendario-de-Jogos-Blue.png">Blue</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="./preview/Calendario-de-Jogos-Green.png">Green</a>
+    &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="./preview/Calendario-de-Jogos-Yellow.png">Yellow</a>
+</p>
+
+![preview](./preview/Calendario-de-Jogos-Blue.png)
 
 ## Projeto 💻
 Projeto desenvolvido durante a NLW Copa da Rocketseat na Trilha Explorer. <br>
