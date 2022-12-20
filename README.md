@@ -3,14 +3,14 @@
 <p align="center">
   Preview:
     &nbsp;&nbsp;&nbsp;
-  <a href="./preview/Calendario-de-Jogos-Blue.png">Blue</a>
+  <a href="./preview/Blue">Blue</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Calendario-de-Jogos-Green.png">Green</a>
+  <a href="./preview/Green">Green</a>
     &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="./preview/Calendario-de-Jogos-Yellow.png">Yellow</a>
+  <a href="./preview/Yellow">Yellow</a>
 </p>
 
-![preview](./preview/Calendario-de-Jogos-Blue.png)
+![preview](./preview/Blue/Calendario-de-Jogos-Blue.png)
 
 ## Projeto 💻
 Projeto desenvolvido durante a NLW Copa da Rocketseat na Trilha Explorer. <br>
