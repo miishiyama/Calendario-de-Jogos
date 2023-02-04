@@ -28,6 +28,7 @@ Segue abaixo o layout deste projeto:
 ## Instalação 🛠
 Siga esses passos para instalar o repositório na sua máquina:
 1. Rode `git clone https://github.com/miishiyama/Calendario-de-Jogos` para fazer um clone desse repositório.
+2. Abra o arquivo HTML.
 
 ## Tecnologias 🚀
 As tecnologias utilizadas neste projeto são:
